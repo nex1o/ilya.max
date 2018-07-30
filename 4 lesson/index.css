@@ -1,0 +1,22 @@
+.container{
+    display: flex;
+    align-content: flex-end;
+}
+
+.items-1{
+    border: 1px solid silver;
+    order: 3;
+    flex-grow: 7;
+}
+
+.items-2{
+    border: 1px solid silver;
+    order: 1;
+    flex-grow: 4;
+}
+
+.items-3{
+    border: 1px solid silver;
+    order: 2;
+    flex-grow:3;
+}
